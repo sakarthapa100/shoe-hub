@@ -12,7 +12,7 @@ const SuperQuality = () => {
    <br />
    Quality Shoe</h1>
 
-   <p className='font-montserrat lg:max-w-lg  text-slate-gray text-lg mt-9 mb-8'>Ensuring premium comfort and style, our meticulosly crafted footwear is designed to elevate your experienc. Providing you wiht unmatched quality innovation and a touch of elegance.
+   <p className='font-montserrat lg:max-w-lg  text-slate-gray text-lg mt-9 mb-8'>Ensuring premium comfort and style, our meticulously crafted footwear is designed to elevate your experience. We provide unmatched quality, innovation, and a touch of elegance
    </p>
 <p className='mt-6 lg:max-w-lg info-text mb-6'>Our dedication to dettail and excellence ensures your satisfaction</p>
 <div className='mt-11'>
